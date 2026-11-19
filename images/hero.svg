@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" role="img" aria-label="Woman meditating outdoors">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e8f2fa"/><stop offset="1" stop-color="#d7edf2"/></linearGradient>
+  </defs>
+  <rect width="600" height="380" rx="24" fill="url(#sky)"/>
+  <circle cx="491" cy="80" r="42" fill="#ffdc94" opacity=".75"/>
+  <path d="M0 302 Q110 235 218 300 T440 297 T600 304 V380 H0" fill="#b2dfc5"/>
+  <path d="M0 332 Q165 289 325 337 T600 314 V380 H0" fill="#8fcfae"/>
+  <ellipse cx="300" cy="331" rx="212" ry="19" fill="#729cae" opacity=".22"/>
+  <path d="M132 303 H478 L504 334 H104 Z" fill="#52a8d4"/>
+  <path d="M265 164 Q251 135 264 119 Q278 100 304 106 Q337 107 343 136 L332 184Z" fill="#2f2d49"/>
+  <circle cx="303" cy="145" r="32" fill="#f3a982"/>
+  <path d="M271 141 Q268 108 301 107 Q327 103 337 130 Q308 122 294 133 Q286 143 271 141" fill="#2e293e"/>
+  <path d="M290 169 L289 190 L317 193 L314 170" fill="#f3a982"/>
+  <path d="M283 185 Q302 171 326 188 L344 254 L263 255Z" fill="#e9638c"/>
+  <path d="M278 204 Q242 222 205 275" fill="none" stroke="#f3a982" stroke-width="17" stroke-linecap="round"/>
+  <path d="M327 205 Q371 227 397 274" fill="none" stroke="#f3a982" stroke-width="17" stroke-linecap="round"/>
+  <circle cx="201" cy="279" r="10" fill="#f3a982"/><circle cx="398" cy="279" r="10" fill="#f3a982"/>
+  <path d="M276 251 Q223 250 175 286 Q154 300 182 309 Q229 314 297 282 Q368 316 421 309 Q447 304 424 289 Q377 251 331 251Z" fill="#414e7a"/>
+  <path d="M182 307 Q220 319 295 284 M424 307 Q383 319 303 284" fill="none" stroke="#343e68" stroke-width="15" stroke-linecap="round"/>
+  <path d="M82 268 Q56 230 80 199 M96 272 Q128 222 116 184 M503 279 Q481 230 507 195" fill="none" stroke="#6abc94" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 227 Q50 209 44 234 Q65 247 81 241 M107 225 Q132 201 147 223 Q131 239 104 240 M505 233 Q535 212 545 233 Q533 251 507 246" fill="#6abc94"/>
+</svg>

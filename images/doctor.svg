@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Doctor in a hospital">
+  <rect width="400" height="400" fill="#deecf4"/>
+  <rect x="20" y="35" width="360" height="170" rx="14" fill="#f5fbff"/>
+  <path d="M70 35 V205 M200 35 V205 M330 35 V205" stroke="#bfd5e4" stroke-width="10"/>
+  <path d="M0 336 Q200 290 400 327 V400 H0" fill="#b9d7e2"/>
+  <path d="M112 400 L130 250 Q156 216 197 224 Q237 214 272 245 L297 400Z" fill="#ffffff"/>
+  <path d="M167 222 L192 260 L210 259 L235 223" fill="#2b87a4"/>
+  <path d="M184 251 L196 288 L179 400 H217 L205 288 L214 253" fill="#2c5f84"/>
+  <circle cx="200" cy="151" r="72" fill="#99664a"/>
+  <path d="M131 143 Q113 70 174 61 Q244 38 267 109 Q252 94 238 91 Q193 121 132 113Z" fill="#283442"/>
+  <path d="M150 159 Q161 169 173 159 M222 159 Q234 169 247 159" fill="none" stroke="#4b3026" stroke-width="5" stroke-linecap="round"/>
+  <path d="M187 191 Q199 199 212 190" fill="none" stroke="#6c3b30" stroke-width="5" stroke-linecap="round"/>
+  <path d="M141 259 Q119 298 130 341 M264 264 Q282 302 268 344" fill="none" stroke="#d9e5eb" stroke-width="10"/>
+  <path d="M145 268 V309 Q155 341 175 322 M262 268 V309 Q248 341 227 322" fill="none" stroke="#4b657a" stroke-width="7"/>
+  <circle cx="175" cy="322" r="11" fill="#4b657a"/>
+  <rect x="236" y="305" width="29" height="29" rx="4" fill="#f1f6f9"/>
+  <path d="M251 310 V329 M241 319 H261" stroke="#48BB78" stroke-width="5"/>
+</svg>

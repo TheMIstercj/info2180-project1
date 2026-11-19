@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Healthy lifestyle and exercise">
+  <rect width="480" height="320" fill="#eff5fc"/>
+  <circle cx="395" cy="63" r="51" fill="#dce8fa"/>
+  <path d="M0 263 Q105 230 216 266 T480 260 V320 H0" fill="#d8efdf"/>
+  <rect x="45" y="55" width="139" height="104" rx="12" fill="#ffffff" stroke="#d5e2ef" stroke-width="5"/>
+  <rect x="62" y="75" width="28" height="64" rx="5" fill="#a2d9f5"/><rect x="101" y="99" width="28" height="40" rx="5" fill="#70c6ac"/><rect x="140" y="86" width="27" height="53" rx="5" fill="#5A67D8"/>
+  <circle cx="297" cy="81" r="34" fill="#b86a49"/><path d="M273 69 Q269 38 303 42 Q338 44 332 75 Q319 61 304 63 Q286 77 273 69" fill="#283349"/>
+  <path d="M283 109 Q302 98 321 110 L342 191 L263 196Z" fill="#36a7d4"/>
+  <path d="M273 136 Q247 163 229 207" fill="none" stroke="#b86a49" stroke-width="16" stroke-linecap="round"/><path d="M325 133 Q347 160 366 176" fill="none" stroke="#b86a49" stroke-width="16" stroke-linecap="round"/>
+  <path d="M282 191 L261 242 L204 263" fill="none" stroke="#2c436d" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/><path d="M323 189 L353 238 L401 252" fill="none" stroke="#2c436d" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M193 263 Q210 254 221 269 L214 280 H179Z M398 251 Q411 240 431 253 L433 265 H397Z" fill="#ffffff"/>
+  <circle cx="76" cy="226" r="36" fill="#7fba71"/><path d="M76 245 Q56 233 67 212 Q78 194 88 215 Q100 233 76 245" fill="#d7ef8b"/>
+  <path d="M76 243 Q73 225 83 212" fill="none" stroke="#58875e" stroke-width="3"/>
+  <path d="M387 157 Q400 140 415 158 M391 164 L412 164" fill="none" stroke="#5A67D8" stroke-width="5" stroke-linecap="round"/>
+</svg>

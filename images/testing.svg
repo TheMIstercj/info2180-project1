@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Medical sample testing">
+  <rect width="400" height="400" fill="#d9eeed"/>
+  <circle cx="319" cy="88" r="86" fill="#c0e0e4"/>
+  <path d="M0 323 Q170 279 400 339 V400 H0" fill="#adcfcc"/>
+  <rect x="100" y="92" width="180" height="234" rx="18" fill="#f9ffff" stroke="#9fbfc7" stroke-width="9"/>
+  <rect x="135" y="73" width="110" height="42" rx="12" fill="#526c86"/>
+  <rect x="126" y="135" width="130" height="84" rx="12" fill="#e0f3f2"/>
+  <path d="M191 151 V202 M166 176 H216" stroke="#48BB78" stroke-width="16" stroke-linecap="round"/>
+  <rect x="135" y="242" width="106" height="12" rx="6" fill="#b6cbd3"/>
+  <rect x="135" y="267" width="86" height="12" rx="6" fill="#b6cbd3"/>
+  <rect x="135" y="293" width="102" height="12" rx="6" fill="#b6cbd3"/>
+  <path d="M309 161 L341 180 L290 282 Q281 301 268 294 Q254 288 265 266Z" fill="#4d9daf"/>
+  <rect x="299" y="143" width="57" height="25" rx="6" transform="rotate(28 299 143)" fill="#6cb4c5"/>
+  <path d="M299 222 L323 234 L292 295 Q282 313 270 304 Q260 297 270 279Z" fill="#fff"/>
+  <path d="M282 279 Q265 273 270 294 Q278 310 286 296" fill="#f4b8a8"/>
+  <circle cx="70" cy="198" r="16" fill="#f3b69f"/><circle cx="63" cy="235" r="9" fill="#f3b69f"/>
+</svg>

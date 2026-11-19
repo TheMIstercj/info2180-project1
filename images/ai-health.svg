@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Healthcare artificial intelligence">
+  <rect width="480" height="320" fill="#f4f9ff"/>
+  <circle cx="394" cy="64" r="68" fill="#dff1fc"/>
+  <circle cx="69" cy="269" r="59" fill="#def5eb"/>
+  <rect x="111" y="47" width="253" height="198" rx="20" fill="#b8d7ed"/>
+  <rect x="125" y="60" width="225" height="169" rx="11" fill="white"/>
+  <path d="M158 152 H198 L215 114 L239 185 L262 135 L277 152 H323" fill="none" stroke="#4cbd85" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="188" y="243" width="96" height="15" rx="7" fill="#647da0"/>
+  <rect x="166" y="259" width="141" height="13" rx="6" fill="#8caac5"/>
+  <circle cx="78" cy="103" r="34" fill="#ffcfa7"/>
+  <path d="M49 97 Q41 61 74 65 Q114 65 109 99 Q94 78 66 88Z" fill="#263f62"/>
+  <path d="M47 145 Q78 127 108 145 L122 219 H30 Z" fill="#506ab7"/>
+  <rect x="62" y="151" width="29" height="59" rx="8" fill="#fff"/>
+  <path d="M76 163 V199 M59 182 H94" stroke="#4cbd85" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="390" cy="218" r="40" fill="#a5e0c0"/>
+  <path d="M390 196 V240 M368 218 H412" stroke="white" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="376" cy="106" r="7" fill="#56afd4"/><circle cx="406" cy="125" r="6" fill="#56afd4"/><circle cx="396" cy="85" r="5" fill="#56afd4"/>
+  <path d="M376 106 L396 85 L406 125 L376 106" fill="none" stroke="#56afd4" stroke-width="3"/>
+</svg>

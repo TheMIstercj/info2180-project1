@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="Fitness tracking app on a phone">
+  <rect width="480" height="320" fill="#eef8ff"/>
+  <circle cx="72" cy="66" r="49" fill="#c8e8f8"/><circle cx="411" cy="258" r="68" fill="#d5f3e5"/>
+  <path d="M81 250 Q132 194 181 251" fill="none" stroke="#b1dbf6" stroke-width="15" stroke-linecap="round"/>
+  <rect x="151" y="17" width="178" height="284" rx="29" fill="#33476b"/>
+  <rect x="161" y="32" width="158" height="254" rx="19" fill="white"/>
+  <rect x="215" y="39" width="51" height="6" rx="3" fill="#33476b"/>
+  <text x="240" y="82" fill="#415271" font-family="Arial,sans-serif" font-size="20" font-weight="bold" text-anchor="middle">TODAY</text>
+  <circle cx="240" cy="153" r="50" fill="none" stroke="#e3edf4" stroke-width="15"/>
+  <circle cx="240" cy="153" r="50" fill="none" stroke="#4dbb89" stroke-width="15" stroke-dasharray="243 314" transform="rotate(-90 240 153)" stroke-linecap="round"/>
+  <text x="240" y="148" fill="#34476c" font-family="Arial,sans-serif" font-size="28" font-weight="bold" text-anchor="middle">78%</text>
+  <text x="240" y="169" fill="#8897aa" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">GOAL</text>
+  <rect x="185" y="220" width="22" height="39" rx="6" fill="#86d8b0"/><rect x="217" y="204" width="22" height="55" rx="6" fill="#61c9a0"/><rect x="249" y="191" width="22" height="68" rx="6" fill="#4dbb89"/><rect x="281" y="210" width="15" height="49" rx="6" fill="#a0d1e6"/>
+  <circle cx="89" cy="155" r="29" fill="#f9bc9c"/><path d="M61 148 Q60 117 88 119 Q111 122 118 146 Q89 132 61 148" fill="#3e4e6c"/>
+  <path d="M68 181 Q90 170 110 186 L127 247 H48Z" fill="#5A67D8"/>
+  <path d="M90 186 Q115 212 144 211" fill="none" stroke="#f9bc9c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M368 115 L383 97 L401 116 L430 75" fill="none" stroke="#4dbb89" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
